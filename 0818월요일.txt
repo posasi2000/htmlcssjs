@@ -1,0 +1,96 @@
+
+순서1] 깃주소
+https://github.com/posasi2000/htmlcssjs
+
+
+순서2] www.w3schools
+https://www.w3schools.com/
+
+
+순서3] vscode다운로드 
+https://code.visualstudio.com/download
+
+
+순서4] 작업폴더 C:\workHtml
+
+
+순서5] 컴퓨터 언어 종류와 특징
+ html, java, python, 리액트, vue, javascript
+ 웹프로그램 - php, asp, aspx, jsp, 스프링
+ 빅데이터의 웹크롤링 (네이버 웹튠, 주식데이터, 커피빈)
+ 빅데이터처리 웹으로 출력(streamlit,fastapi, gradio)
+ 빅데이터  파이썬 웹서버 프로그램 - Django, Flask
+
+https://www.coffeebeankorea.com/store/store.asp
+https://category.gmarket.co.kr/listview/L100000020.aspx
+https://www.shinhan.com/index.jsp
+https://www.egovframe.go.kr/home/main.do
+개발가이드-> 개발환경-> 표준프레임워크 개발환경 4.3가이드
+https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.3
+
+django개발된 유명한 웹사이트는 인스타
+https://www.instagram.com/accounts/emailsignup/
+
+
+순서6] vsCode환경세팅 
+File메뉴  AutoSave체크권장
+File메뉴  Preferences -> Settings-> Mouse Wheel Zoom 체크권장
+File메뉴  Preferences -> Themes-> Color Themes-> Dark권장
+왼쪽 5번째 아이콘 Extensions -> Live Server
+
+한글/영문변환
+View메뉴 Command Palette(명령 팔레트)
+  ㄴ configure display language검색후  선택
+    간단하게 cdl이라고 검색해도 된다 (en영어권장)
+
+
+순서7] html언어  
+📌 HTML이란?
+HTML (HyperText Markup Language)
+→ 웹 페이지를 만들 때 사용하는 마크업 언어입니다.
+→ 프로그래밍 언어가 아니라, 웹 브라우저가 문서를 어떻게 구조화하고 보여줄지를 정의하는 언어입니다.
+
+📌 웹 크롤링이란?
+웹 크롤링은 웹 사이트에서 자동으로 데이터를 수집하는 작업입니다.
+보통 크롤러(Crawler) 또는 스파이더(Spider)라고 불리는 프로그램이 웹 페이지를 방문해서
+HTML 문서를 가져오고, 필요한 정보를 추출(parse)해서, 저장(데이터베이스, 파일 등) 하는 과정입니다.
+
+📌 웹 크롤링과 스크래핑
+웹 크롤링 (Crawling) : 여러 웹 페이지를 자동으로 탐색하며 정보를 가져오는 과정
+웹 스크래핑 (Scraping) : 특정 웹 페이지에서 원하는 데이터만 추출하는 작업
+👉 두 개념은 구분해서 쓰기도 하지만, 보통 혼용됩니다.
+
+순서8] 컬러색 스포라이드
+https://photokit.com/colors/eyedropper/?lang=ko
+
+
+
+순서9] 통신규약
+ ㄴTCT/IP (transmission control protocol / internet protocol)
+ ㄴFTP(file transfer protocol)
+ ㄴSMTP메일(simple mail transfer protocol)
+ ㄴDHCP(dynamic Host configuration protocol)
+ ㄴHTTP(hypertext transfer protocol)
+     ㄴ웹브라우저 프로토콜
+
+
+순서10] 정확한 설명및 실습시간 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
